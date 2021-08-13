@@ -1,0 +1,15 @@
+.pageContainer{
+  display: flex;
+  justify-content: space-between;
+}
+.ShowButton{
+  padding-top: 50px ;
+  width: 30%;
+
+}
+.Images{
+  width: 70%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
